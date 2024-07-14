@@ -4,14 +4,23 @@ Este projeto é um conversor de moedas que utiliza a API ExchangeRate-API para o
 FUNCIONALIDADES:
 
 Converter moedas de:
+
 [BRL] para [JPY]
+
 [JPY] para [BRL]
+
 [BRL] para [KRW]
+
 [KRW] para [BRL]
+
 [BRL] para [USD]
+
 [USD] para [BRL]
+
 
 TECNOLOGIAS UTILIZADAS:
 Java
+
 Exchangerate API: https://www.exchangerate-api.com
+
 Gson
